@@ -1,6 +1,29 @@
 # http://www.gnu.org/software/automake
 
-Makefile.in
+element {
+}
+html {
+    touch-action: manipulation;
+}
+margin
+border
+padding
+×
+1519.2×879.533
+static
+box-sizing
+content-box
+display
+block
+float
+none
+line-height
+18.4px
+position
+static
+z-index
+auto
+
 /ar-lib
 /mdate-sh
 /py-compile
